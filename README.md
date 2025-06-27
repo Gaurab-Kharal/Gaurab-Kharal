@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Gaurab-Kharal
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning jsreact program
 - 💞️ I’m looking to collaborate on any coding program you suggest
 - 📫 you can reach me through gaurab7700@gmail.com
-- 😄 Pronouns: he him 
-- ⚡ Fun fact: no fun is fun ok that's bullshit
+- 😄 Pronouns: he/him 
 - 
 
 <!---
