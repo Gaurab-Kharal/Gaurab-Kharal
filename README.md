@@ -1,6 +1,5 @@
 👋 Hi, I'm **@Gaurab-Kharal** (Gaurab Kharal)
 
-🎓 **5th Semester College Student**  
 🔍 Currently learning **Data Analysis**, **Data Visualization** (Tableau), **SQL**, **Python**
 💡 Passionate about turning data into clear insights and impactful stories  
 
