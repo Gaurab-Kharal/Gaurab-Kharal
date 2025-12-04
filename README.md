@@ -21,7 +21,3 @@
 😄 Pronouns: He/Him  
 ⚡ Fun fact: Still figuring things out — but enjoying every step of the journey!
 
-<!---
-Gaurab-Kharal/Gaurab-Kharal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
