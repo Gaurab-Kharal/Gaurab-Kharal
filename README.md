@@ -10,13 +10,12 @@
 - Learning new tools and technologies  
 
 💞️ Open to collaborate on:  
-- Beginner-to-intermediate Data Analysis projects  
+- Data Analysis projects / Engineering projects
 - Tableau / Power BI dashboards  
-- Python (Pandas, NumPy, Matplotlib, Seaborn) projects  
+- Python (Pandas, NumPy, PySpark) projects  
 - SQL practice or any fun learning projects  
 
 📫 Reach me at: gaurab7700@gmail.com  
-
-😄 Pronouns: He/Him  
+ 
 ⚡ Fun fact: Still figuring things out — but enjoying every step of the journey!
 
