@@ -11,7 +11,7 @@
 
 💞️ Open to collaborate on:  
 - Data Analysis projects / Engineering projects
-- Tableau / Power BI dashboards  
+- Tableau dashboards  
 - Python (Pandas, NumPy, PySpark) projects  
 - SQL practice or any fun learning projects  
 
